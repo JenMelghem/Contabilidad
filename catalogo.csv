@@ -1,0 +1,119 @@
+codigo, nombre
+1,	Activo
+1.1,	Activo Corriente (<= 1 año)
+1.1.1,	Efectivo y equivalentes al efectivo
+1.1.1.1,	caja
+1.1.1.2,	caja chica
+1.1.1.3,	Bancos (es algo que la empresa puede utilizar)
+1.1.1.4,	Depósitos a plazo (a 3 meses)
+1.1.1.5,	Inversiones en bonos (a 3 meses)
+1.1.2,	Inversiones
+1.1.2.1,	Inversiones en bono (<= 1 año)
+1.1.2.2,	Depósitos a plazo (a 12 meses)
+1.1.3,	Cuentas y documentos por cobrar
+1.1.3.1,	Clientes
+1.1.3.2,	Deudores varios
+1.1.3.3,	Funcionarios y empleados
+1.1.3.4,	Intereses por cobrar
+1.1.3.5,	Impuestos diferidos por cobrar
+1.1.3.6,	Rentas por cobrar
+1.1.3.7,	Impuestos por cobrar
+1.1.3.8,	Dividendos por cobrar
+1.1.3.9,	Documentos por cobrar (<= 1 año)
+1.1.4,	Inventarios
+1.1.4.1,	Empresas comerciales y de servicios
+1.1.4.1.1,	Inventario (Almacen) (compra para vender)
+1.1.4.2,	Empresas Industriales o manufactureras
+1.1.4.2.1,	Inventario de materia prima
+1.1.4.2.2,	Inventario de productos en proceso
+1.1.4.2.3,	Inventario de productos terminados
+1.1.5,	Pagos Anticipados
+1.1.5.1,	Papeleria y utiles
+1.1.5.2,	Material de empaque
+1.1.5.3,	Material de aseo
+1.1.5.4,	Propaganda y publicidad
+1.1.5.5,	Anticipos a proveedores
+1.1.5.6,	Rentas pagadas por anticipado
+1.1.5.7,	Suscripciones pagadas por anticipado
+1.1.5.8,	Intereses pagados por anticipado
+1.1.5.9,	Impuestos pagados por anticipado
+1.2,	Activo No Corriente (> 1 año)
+1.2.1,	Inversiones y valores
+1.2.1.1,	Inversiones en bono 
+1.2.1.2,	Inversiones en acciones
+1.2.1.3,	Inversiones en negocios conjuntos
+1.2.1.4,	Depositos a plazo (Vencimiento > 12 meses)
+1.2.2,	Propiedad planta y equipo
+1.2.2.1,	Terrenos (para uso de la empresa)
+1.2.2.2,	Edificios (Propiedad de la empresa)
+1.2.2.3,	Maquinaria
+1.2.2.4,	Mobiliario y equipo
+1.2.2.5,	Vehículos
+1.2.2.6,	Equipo de transporte
+1.2.2.7,	Equipo de reparto
+1.2.2.8,	Herramientas
+1.2.3,	Intangibles
+1.2.3.1,	Plusvalía (Crédito mercantil)
+1.2.3.2,	Derechos de autor
+1.2.3.3,	Marcas y patentes
+1.2.3.4,	Licencias
+1.2.3.5,	Programas informáticos
+1.2.4,	Propiedades de inversión
+1.2.4.1,	Terrenos (los alquila o los tiene a la venta)
+1.2.4.2,	Edificios (los alquila o los tiene a la venta)
+1.2.5,	Otros activos
+1.2.5.1,	Bancos (Cuenta congelada)
+1.2.5.2,	Documentos por cobrar (a largo plazo >1 año)
+1.2.5.3,	Depósitos en garantía
+2,	Pasivo
+2.1,	Pasivo corriente
+2.1.1,	Cuentas y documentos por pagar
+2.1.1.1,	Proveedores (Acreedores comerciales)
+2.1.1.2,	Sueldos y salarios por pagar (Corto plazo)
+2.1.1.3,	Impuestos por pagar (Corto plazo)
+2.1.1.4,	Intereses por pagar (Corto plazo)
+2.1.1.5,	Acreedores varios (Corto plazo)
+2.1.1.6,	Documentos por pagar (Corto plazo)
+2.1.2,	Préstamos
+2.1.2.1,	Préstamos bancarios (Con avales) (Corto plazo)
+2.1.2.2,	Préstamos hipotecarios (Con garantias) (Corto plazo)
+2.1.3,	Provisiones
+2.1.3.1,	Provisiones para compensaciones a empleados (Corto plazo)
+2.1.3.2,	Provisiones para cubrir garantías a clientes (Corto plazo)
+2.1.3.3,	Provisiones para cubrir reclamos legales (Corto plazo)
+2.1.4,	Cobros anticipados
+2.1.4.1,	Rentas cobradas por anticipado (Corto plazo)
+2.1.4.2,	Intereses cobrados por anticipado (Corto plazo)
+2.1.4.3,	Servicios cobrados por anticipado (Corto plazo)
+2.1.4.4,	Suscripciones cobradas por anticipado (Corto plazo)
+2.1.4.5,	Anticipos a clientes (Corto plazo)
+2.2,	Pasivo no corriente (Deudas a largo plazo >12 meses)
+2.2.1,	Cuentas y documentos por pagar (Largo plazo)
+2.2.1.1,	Acreedores varios (Largo plazo)
+2.2.1.2,	Documentos por pagar (Largo plazo)
+2.2.2,	Préstamos (Largo plazo)
+2.2.2.1,	Préstamos bancarios (Con avales y Largo plazo)
+2.2.2.2,	Préstamos hipotecarios (Con garantias y Largo plazo)
+2.2.3,	Provisiones (Largo plazo)
+2.2.3.1,	Provisiones para compensaciones a empleados (Largo plazo)
+2.2.3.2,	Provisiones para cubrir garantías a clientes (Largo plazo)
+2.2.3.3,	Provisiones para cubrir reclamos legales (Largo plazo)
+2.2.4,	Cobros anticipados
+2.2.4.1,	Rentas cobradas por anticipado (Largo plazo)
+2.2.4.2,	Intereses cobrados por anticipado (Largo plazo)
+2.2.4.3,	Servicios cobrados por anticipado (Largo plazo)
+3,	Patrimonio Neto
+3.1,	Comerciante individual
+3.1.1,	Capital
+3.1.2,	Resultados acumulados
+3.1.2.1,	Utilidades o pérdidas de años anteriores
+3.1.2.2,	Utilidad o pérdida neta del período
+3.2,	Empresa Jurídica
+3.2.1,	Capital social (Aportación de los socios)
+3.2.2,	Reservas
+3.2.2.1,	Reserva legal (Obligatoria 5%)
+3.2.2.2,	Reservas estatutarias (No son legales. 6%)
+3.2.2.3,	Reserva voluntaria
+3.2.3,	Resultados acumulados
+3.2.3.1,	Utilidad o pérdida de años anteriores (Años anteriores 2023)
+3.2.3.2,	Utilidad o pérdida neta del ejercicio (Año 2024)
