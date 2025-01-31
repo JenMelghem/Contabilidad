@@ -1,5 +1,4 @@
-from PyQt6.QtWidgets import (QWidget, QVBoxLayout, QPushButton, QFileDialog,
-                             QTableWidget, QTableWidgetItem, QLabel)
+from PyQt6.QtWidgets import (QWidget, QVBoxLayout, QPushButton, QTableWidget, QLabel)
 
 class BalanceUI(QWidget):
     def __init__(self):
@@ -27,13 +26,3 @@ class BalanceUI(QWidget):
         layout.addWidget(self.lblMensaje)
         
         self.setLayout(layout)
-
-    def mostrar_tabla(self, df):
-        """Carga un DataFrame en la tabla."""
-        self.tabla.setRowCount(df.shape[0])
-        self.tabla.setColumnCount(df.shape[1])
-        self.tabla.setHorizontalHeaderLabels(df.columns)
-
-        for i in range(df.shape[0]):
-            for j in range(df.shape[1]):
-                self.tabla.setItem(i, j, QTableWidgetItem(str(df.iat[i, j])))
