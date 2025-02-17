@@ -1,0 +1,135 @@
+codigo,nombre,depreciaciones,Dep+csinDep,total_cuenta,total_grupos
+1, Activo, 0, 0, 0, 0
+1.1, Activo Corriente, 0, 0, 0, 0
+1.1.1, Efectivo y Equivalentes al Efectivo, 0, 0, 0, 0
+1.1.1.1, Caja, 0, 0, 0, 0
+1.1.1.2, Caja Chica, 0, 0, 0, 0
+1.1.1.3, Bancos (se puede utilizar), 0, 0, 0, 0
+1.1.1.4, Depósitos a plazo (3 meses plazo), 0, 0, 0, 0
+1.1.1.5, Inversiones en bonos (a 3 meses plazo), 0, 0, 0, 0
+1.1.2, Inversiones, 0, 0, 0, 0
+1.1.2.1, Inversiones en Bonos (mayor a 3 meses y menor a 1 año), 0, 0, 0, 0
+1.1.2.2, Depósitos a plazos (mayor a 3 meses y menor a 1 año), 0, 0, 0, 0
+1.1.3, Cuentas y documentos por cobrar, 0, 0, 0, 0
+1.1.3.1, Clientes, 0, 0, 0, 0
+1.1.3.2, Deudores varios, 0, 0, 0, 0
+1.1.3.3, Funcionarios y empleados, 0, 0, 0, 0
+1.1.3.4, Intereses por cobrar, 0, 0, 0, 0
+1.1.3.5, Impuestos diferidos por cobrar, 0, 0, 0, 0
+1.1.3.6, Rentas por cobrar, 0, 0, 0, 0
+1.1.3.7, Impuestos por cobrar, 0, 0, 0, 0
+1.1.3.8, Dividendos por cobrar, 0, 0, 0, 0
+1.1.3.9, Documentos por cobrar (<= 1 año), 0, 0, 0, 0
+1.1.4, Inventarios, 0, 0, 0, 0
+1.1.4.1, Empresas comerciales y de servicios, 0, 0, 0, 0
+1.1.4.1.1, Inventario (almacén) Inicial, 0, 0, 0, 0
+1.1.4.1.2, Inventario (almacén) Final, 0, 0, 0, 0
+1.1.4.2, Empresas Industriales, 0, 0, 0, 0
+1.1.4.2.1, Inventario de materia prima, 0, 0, 0, 0
+1.1.4.2.2, Inventario de productos en proceso, 0, 0, 0, 0
+1.1.4.2.3, Inventario de productos terminados, 0, 0, 0, 0
+1.1.5, Pagos anticipados, 0, 0, 0, 0
+1.1.5.1, Papelería y útiles, 0, 0, 0, 0
+1.1.5.2, Material de empaque, 0, 0, 0, 0
+1.1.5.3, Material de aseo, 0, 0, 0, 0
+1.1.5.4, Propaganda y publicidad, 0, 0, 0, 0
+1.1.5.5, Anticipos a proveedores, 0, 0, 0, 0
+1.1.5.6, Rentas pagadas por anticipado, 0, 0, 0, 0
+1.1.5.7, Suscripciones pagadas por anticipado, 0, 0, 0, 0
+1.1.5.8, Intereses pagados por anticipado, 0, 0, 0, 0
+1.1.5.9, Impuestos pagados por anticipado, 0, 0, 0, 0
+0.1.1, TOTAL ACTIVO CORRIENTE, 0, 0, 0, 0
+1.2, Activo No Corriente, 0, 0, 0, 0
+1.2.1, Inversiones y valores, 0, 0, 0, 0
+1.2.1.1, Inversiones en bonos (mayor a 1 año), 0, 0, 0, 0
+1.2.1.2, Inversiones en acciones, 0, 0, 0, 0
+1.2.1.3, Inversiones en negocios conjuntos, 0, 0, 0, 0
+1.2.1.4, Depósitos a plazo (mayor a 1 año), 0, 0, 0, 0
+1.2.2, Propiedad planta y equipo, 0, 0, 0, 0
+1.2.2.1, Terrenos (uso de la empresa), 0, 0, 0, 0
+1.2.2.2, Edificios (uso de la empresa), 0, 0, 0, 0
+1.2.2.2.1, Depreciación acumulada de Edificios, 0, 0, 0, 0
+1.2.2.3, Maquinaria, 0, 0, 0, 0
+1.2.2.3.1, Depreciación acumulada de Maquinaria, 0, 0, 0, 0
+1.2.2.4, Mobiliario y equipo, 0, 0, 0, 0
+1.2.2.4.1, Depreciación acumulada de Mobiliario y equipo, 0, 0, 0, 0
+1.2.2.5, Vehículos (personal de un empleado), 0, 0, 0, 0
+1.2.2.5.1, Depreciación acumulada de Vehículos, 0, 0, 0, 0
+1.2.2.6, Equipo de transporte (transporte de personal), 0, 0, 0, 0
+1.2.2.6.1, Depreciación acumulada de Equipo de transporte, 0, 0, 0, 0
+1.2.2.7, Equipo de reparto (reparto de producto), 0, 0, 0, 0
+1.2.2.7.1, Depreciación acumulada de Equipo de reparto, 0, 0, 0, 0
+1.2.2.8, Herramientas, 0, 0, 0, 0
+1.2.2.8.1, Depreciación acumulada de Herramientas, 0, 0, 0, 0
+1.2.3, Intangibles, 0, 0, 0, 0
+1.2.3.1, Plusvalía (crédito mercantil), 0, 0, 0, 0
+1.2.3.2, Derechos de autor, 0, 0, 0, 0
+1.2.3.3, Marcas y patentes, 0, 0, 0, 0
+1.2.3.4, Licencias, 0, 0, 0, 0
+1.2.3.5, Programas informáticos, 0, 0, 0, 0
+1.2.4, Propiedades de inversión, 0, 0, 0, 0
+1.2.4.1, Terrenos (para alquiler o venta), 0, 0, 0, 0
+1.2.4.2, Edificios (para alquiler o venta), 0, 0, 0, 0
+1.2.5, Otros activos, 0, 0, 0, 0
+1.2.5.1, Bancos (cuenta congelada embargo), 0, 0, 0, 0
+1.2.5.2, Documentos por cobrar (>= a 1 año), 0, 0, 0, 0
+1.2.5.3, Depósitos en garantía, 0, 0, 0, 0
+0.1.2, TOTAL ACTIVO NO CORRIENTE, 0, 0, 0, 0
+0.1, TOTAL ACTIVO, 0, 0, 0, 0
+2, Pasivo, 0, 0, 0, 0
+2.1, Pasivo Corriente, 0, 0, 0, 0
+2.1.1, Cuentas y documentos por pagar (corto plazo), 0, 0, 0, 0
+2.1.1.1, Proveedores (acreedores comerciales), 0, 0, 0, 0
+2.1.1.2, Sueldos y salarios por pagar, 0, 0, 0, 0
+2.1.1.3, Impuestos por pagar, 0, 0, 0, 0
+2.1.1.4, Intereses por pagar, 0, 0, 0, 0
+2.1.1.5, Acreedores varios (corto plazo), 0, 0, 0, 0
+2.1.1.6, Documentos por pagar (corto plazo), 0, 0, 0, 0
+2.1.2, Préstamos (corto plazo), 0, 0, 0, 0
+2.1.2.1, Préstamos bancarios (corto plazo), 0, 0, 0, 0
+2.1.2.2, Préstamos hipotecarios (corto plazo), 0, 0, 0, 0
+2.1.3, Provisiones (corto plazo), 0, 0, 0, 0
+2.1.3.1, Provisiones para compensaciones a empleados (corto plazo), 0, 0, 0, 0
+2.1.3.2, Provisiones para cubrir garantías a clientes (corto plazo), 0, 0, 0, 0
+2.1.3.3, Provisiones para cubrir reclamos legales (corto plazo), 0, 0, 0, 0
+2.1.4, Cobros anticipados (corto plazo), 0, 0, 0, 0
+2.1.4.1, Rentas cobradas por anticipado (corto plazo), 0, 0, 0, 0
+2.1.4.2, Intereses cobrados por anticipado (corto plazo), 0, 0, 0, 0
+2.1.4.3, Servicios cobrados por anticipado (corto plazo), 0, 0, 0, 0
+2.1.4.4, Suscripciones cobradas por anticipado, 0, 0, 0, 0
+2.1.4.5, Anticipos de clientes, 0, 0, 0, 0
+0.2.1, TOTAL PASIVO CORRIENTE, 0, 0, 0, 0
+2.2, Pasivo No Corriente, 0, 0, 0, 0
+2.2.1, Cuentas y documentos por pagar (largo plazo), 0, 0, 0, 0
+2.2.1.1, Acreedores varios (largo plazo), 0, 0, 0, 0
+2.2.1.2, Documentos por pagar (largo plazo), 0, 0, 0, 0
+2.2.2, Préstamos (largo plazo), 0, 0, 0, 0
+2.2.2.1, Préstamos bancarios (largo plazo), 0, 0, 0, 0
+2.2.2.2, Préstamos hipotecarios (largo plazo), 0, 0, 0, 0
+2.2.3, Provisiones (largo plazo), 0, 0, 0, 0
+2.2.3.1, Provisiones para compensaciones a empleados (largo plazo), 0, 0, 0, 0
+2.2.3.2, Provisiones para cubrir garantías a clientes (largo plazo), 0, 0, 0, 0
+2.2.3.3, Provisiones para cubrir reclamos legales (largo plazo), 0, 0, 0, 0
+2.2.4, Cobros anticipados (largo plazo), 0, 0, 0, 0
+2.2.4.1, Rentas cobradas por anticipado (largo plazo), 0, 0, 0, 0
+2.2.4.2, Intereses cobrados por anticipado (largo plazo), 0, 0, 0, 0
+2.2.4.3, Servicios cobrados por anticipado (largo plazo), 0, 0, 0, 0
+0.2.2, TOTAL PASIVO NO CORRIENTE, 0, 0, 0, 0
+0.2, TOTAL PASIVO, 0, 0, 0, 0
+3, Patrimonio Neto, 0, 0, 0, 0
+3.1, Comerciante Individual, 0, 0, 0, 0
+3.1.1, Capital, 0, 0, 0, 0
+3.1.2, Resultados acumulados, 0, 0, 0, 0
+3.1.2.1, Utilidades o pérdidas de años anteriores, 0, 0, 0, 0
+3.1.2.2, Utilidad o pérdida neta del período, 0, 0, 0, 0
+3.2, Empresa Jurídica, 0, 0, 0, 0
+3.2.1, Capital Social, 0, 0, 0, 0
+3.2.2, Reservas, 0, 0, 0, 0
+3.2.2.1, Reserva legal (5%), 0, 0, 0, 0
+3.2.2.2, Reservas estatutarias (de constitución), 0, 0, 0, 0
+3.2.2.3, Reservas voluntarias, 0, 0, 0, 0
+3.2.3, Resultados acumulados, 0, 0, 0, 0
+3.2.3.1, Utilidad o pérdida de años anteriores, 0, 0, 0, 0
+3.2.3.2, Utilidad o pérdida neta del ejercicio, 0, 0, 0, 0
+0.3, TOTAL PATRIMONIO NETO, 0, 0, 0, 0
+0.4, TOTAL PASIVO MAS PATRIMONIO, 0, 0, 0, 0

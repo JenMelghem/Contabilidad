@@ -38,13 +38,14 @@ codigo, nombre
 1.1.5.7, Suscripciones pagadas por anticipado
 1.1.5.8, Intereses pagados por anticipado
 1.1.5.9, Impuestos pagados por anticipado
+0.1, TOTAL ACTIVO CORRIENTE
 1.2, Activo No Corriente
 1.2.1, Inversiones y valores
 1.2.1.1, Inversiones en bonos (mayor a 1 año)
 1.2.1.2, Inversiones en acciones
 1.2.1.3, Inversiones en negocios conjuntos
 1.2.1.4, Depósitos a plazo (mayor a 1 año)
-1.2.2, Propiedad, planta y equipo
+1.2.2, Propiedad planta y equipo
 1.2.2.1, Terrenos (uso de la empresa)
 1.2.2.2, Edificios (uso de la empresa)
 1.2.2.2.1, Depreciación acumulada de Edificios
@@ -52,7 +53,7 @@ codigo, nombre
 1.2.2.3.1, Depreciación acumulada de Maquinaria
 1.2.2.4, Mobiliario y equipo
 1.2.2.4.1, Depreciación acumulada de Mobiliario y equipo
-1.2.2.5, Vehículos (personal, de un empleado)
+1.2.2.5, Vehículos (personal de un empleado)
 1.2.2.5.1, Depreciación acumulada de Vehículos
 1.2.2.6, Equipo de transporte (transporte de personal)
 1.2.2.6.1, Depreciación acumulada de Equipo de transporte
@@ -70,7 +71,7 @@ codigo, nombre
 1.2.4.1, Terrenos (para alquiler o venta)
 1.2.4.2, Edificios (para alquiler o venta)
 1.2.5, Otros activos
-1.2.5.1, Bancos (cuenta congelada, embargo)
+1.2.5.1, Bancos (cuenta congelada embargo)
 1.2.5.2, Documentos por cobrar (>= a 1 año)
 1.2.5.3, Depósitos en garantía
 010, TOTAL ACTIVO
